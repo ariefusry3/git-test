@@ -3,3 +3,5 @@ file gg keren
 hmm coba tambah line baru
 
 testing
+
+ini saya edit ketika sudah melakukan push di github
